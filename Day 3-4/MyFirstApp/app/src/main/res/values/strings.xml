@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="hello_there">Hello there.</string>
+    <string name="this_is_a_button">This is a button.</string>
+    <!--These values can be edited in order to translate an app, however hard coded values in
+    activity_main.xml cannot be edited for translation.-->
+</resources>
